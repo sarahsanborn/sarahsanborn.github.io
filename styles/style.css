@@ -68,6 +68,10 @@ footer {
     background-color: #045050;
 }
 
+li {
+    font-family: Lato, sans-serif;
+}
+
 .flex-container {
     display: flex;
     align-items: center;
